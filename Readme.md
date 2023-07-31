@@ -1,4 +1,4 @@
-# Readme for Firebase Authentication with Apple on Android
+# Firebase Authentication with Apple on Android
 
 ## Introduction
 Welcome to the documentation for integrating Firebase Authentication with Apple on Android! This readme will guide you through the necessary steps to set up Firebase Authentication for your Android app using Apple as an authentication method. Firebase Authentication allows users to sign in to your app using their Apple credentials securely.
