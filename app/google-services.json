@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612407127650",
+    "project_id": "nikolaipodonin-samples",
+    "storage_bucket": "nikolaipodonin-samples.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612407127650:android:35a7a1cad09ff136772b3b",
+        "android_client_info": {
+          "package_name": "com.example.appleonandroidauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPAp8AT5_UlP5VLPayeNFxy1HMz2-cl_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

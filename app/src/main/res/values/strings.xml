@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppleOnAndroidAuth</string>
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+    <string name="generic_signin_fmt">Sign In with Apple</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="error_sign_in_failed">Sign in failed, see logs for details.</string>
+    <string name="generic_status_fmt">User: %s (%s)</string>
+    <string name="firebase_status_fmt">Firebase UID: %s</string>
+</resources>
